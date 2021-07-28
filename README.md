@@ -12,7 +12,8 @@ Familist will help you with that since every memeber of the family will be able 
 
 - [ ] Creating a Familist
 - [ ] Invite system to join an existing group
-- [ ] Creating a Familist
+- [ ] Profile picture management
 - [ ] Real time list
+- [ ] Finding items that were "already added to the list"
 - [ ] Display who put what in the list
 - [ ] Connection to a drive API
